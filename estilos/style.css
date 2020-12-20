@@ -3,7 +3,11 @@
 }
 
 body{
-    background-color: rgb(204, 157, 248);
+    background-color: rgb(188, 164, 211);
+}
+
+img.Lado{
+    float: right;
 }
 
 main{
